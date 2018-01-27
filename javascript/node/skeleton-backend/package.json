@@ -1,0 +1,17 @@
+{
+  "name": "node_skeleton",
+  "version": "0.0.1",
+  "description": "Node site skeleton",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "3.0.0alpha4",
+    "jade": "*",
+    "stylus": "*",
+    "nib": "*"
+  },
+  "author": "austin",
+  "license": "ISC"
+}
